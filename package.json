@@ -1,0 +1,23 @@
+{
+  "name": "cypresscypress",
+  "version": "1.0.0",
+  "description": "meu primeiro teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IruanSFT/CypressCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IruanSFT/CypressCypress/issues"
+  },
+  "homepage": "https://github.com/IruanSFT/CypressCypress#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
